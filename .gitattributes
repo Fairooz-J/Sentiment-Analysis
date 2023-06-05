@@ -1,2 +1,2 @@
-*.py<file-extension> linguist-language=Python
+*.ipynb<file-extension> linguist-language=Python
 
